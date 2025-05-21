@@ -14,8 +14,7 @@ I'm a passionate freelance software Engineer specializing in web technologies. I
 - **Languages:** C#, Java, JavaScript, TypeScript, HTML, CSS
 - **Frameworks:** .NET Framework, .NET Core, Angular, Entity Framework
 - **Databases:** SQL Server, MySQL, PostgreSQL
-- **Tools:** Git, Docker, Aws, Jenkins, Postman, REST APIs
-- **Cloud & Platforms:** Azure, Azure Data Factory
+- **Cloud & Platforms:** Azure, AWS
 
 ## 📂 Open Source Projects
 
