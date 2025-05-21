@@ -1,6 +1,6 @@
 # Hi there, I'm Amine AZRI 👋
 
-I'm a passionate freelance software Engineer specializing in web technologies. I love creating open-source projects and contributing to the developer community.
+I'm a passionate software Engineer specializing in web technologies. I love creating open-source projects and contributing to the developer community.
 
 ## 🚀 About Me
 
@@ -23,7 +23,7 @@ I'm a passionate freelance software Engineer specializing in web technologies. I
 
 ## 📫 How to reach me
 
-- **LinkedIn:** [Amine AZRI](https://www.linkedin.com/in/amineazrii)
+- **LinkedIn:** [Amine AZRI](https://www.linkedin.com/in/amineazri)
 - **GitHub:** [azriiii](https://github.com/azriiii)
 
 Feel free to reach out if you have any questions or just want to connect!
